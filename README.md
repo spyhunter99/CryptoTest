@@ -4,3 +4,9 @@ A simple android app that you can use to confirm that your device supports AES e
 
 # License
 Apache 2.0 License
+
+
+# Build 
+
+gradlw clean installDebug
+
